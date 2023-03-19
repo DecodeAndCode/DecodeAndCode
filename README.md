@@ -1,8 +1,7 @@
-![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)
+<img src="https://rishavanand.github.io/static/images/greetings.gif" alt="Description of the image" height="500">
 <h1 align="center">Hi 👋, I'm Chiranjeev Kundu</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=decodeandcode&label=Profile%20views&color=0e75b6&style=flat" alt="decodeandcode" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=decodeandcode" alt="decodeandcode" /></a> </p>
