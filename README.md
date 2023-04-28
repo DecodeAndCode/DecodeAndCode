@@ -3,7 +3,7 @@
 </div> 
 
 ## 💫 About Me:
-🔭 Flutter Developer at Visanka Technologies <br>🌱 On the Learning curve of deep concepts in flutter development <br>💬 Ask me about DSA, Problem Solving ,Mobile App development <br>⚡ It’s all  about 0’s and 1’s
+🔭 Flutter Developer at DigitalPhora and ex-Visanka Technologies <br>🌱 On the Learning curve of deep concepts in flutter development <br>💬 Ask me about DSA, Problem Solving ,Mobile App development <br>⚡ It’s all  about 0’s and 1’s
 
 
 ## 🌐 Socials:
